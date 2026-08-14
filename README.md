@@ -1,6 +1,6 @@
 <div align="center">
 
-# Matheus Amorim
+# Matheus Soares
 
 ### Estudante de Engenharia de Software | Desenvolvimento Full Stack
 
