@@ -1,8 +1,8 @@
 <div align="center">
 
-# Matheus Soares
+# Olá, eu sou Matheus Soares 👋
 
-### Estudante de Engenharia de Software | Desenvolvimento Full Stack
+### Estudante de Engenharia de Software | Desenvolvedor Full Stack
 
 São Paulo, Brasil · Em busca de estágio em desenvolvimento de software
 
@@ -12,36 +12,48 @@ São Paulo, Brasil · Em busca de estágio em desenvolvimento de software
 
 </div>
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou estudante de **Engenharia de Software na FIAP** e técnico em Informática pelo **SENAC**.
 
-Desenvolvo projetos para colocar em prática meus estudos de frontend, backend, APIs REST e banco de dados. Tenho curiosidade para entender como as aplicações funcionam, gosto de investigar erros e busco evoluir por meio de prática e feedback técnico.
+Desenvolvo aplicações para colocar em prática meus conhecimentos de **frontend, backend, APIs REST e bancos de dados**. Trabalho com o ecossistema JavaScript e também com **Java e Spring Boot**, buscando construir soluções organizadas, seguras e fáceis de manter.
 
-Atualmente, procuro minha primeira oportunidade de **estágio em desenvolvimento de software**, onde eu possa contribuir, aprender com profissionais mais experientes e continuar construindo uma base técnica sólida.
+Gosto de entender como as aplicações funcionam, investigar erros e evoluir por meio da prática e de feedback técnico. Atualmente, procuro minha primeira oportunidade de **estágio em desenvolvimento de software**, na qual eu possa contribuir com o time, aprender com profissionais experientes e fortalecer minha base técnica.
 
-## Tecnologias
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2328?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=61DAFB)
+### Backend
+
+![Java](https://img.shields.io/badge/Java-1f2328?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f2328?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![Node.js](https://img.shields.io/badge/Node.js-1f2328?style=flat-square&logo=node.js&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-1f2328?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1f2328?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Mongoose](https://img.shields.io/badge/Mongoose-1f2328?style=flat-square&logo=mongoose&logoColor=F04D35)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2328?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-1f2328?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1f2328?style=flat-square&logo=css3&logoColor=1572B6)
+
+### Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1f2328?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-1f2328?style=flat-square&logo=vite&logoColor=646CFF)
+![Postman](https://img.shields.io/badge/Postman-1f2328?style=flat-square&logo=postman&logoColor=FF6C37)
 
 </div>
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
 ### 🦷 Clínica OdontoVida
 
-Sistema full-stack para gestão de uma clínica odontológica fictícia, desenvolvido como projeto de estudo e portfólio.
+Sistema full stack para gestão de uma clínica odontológica fictícia, desenvolvido como projeto de estudo e portfólio.
 
 - Autenticação com JWT e controle de acesso por perfil
 - Gerenciamento de pacientes, profissionais e usuários
@@ -58,7 +70,7 @@ Sistema full-stack para gestão de uma clínica odontológica fictícia, desenvo
 
 ### 🔥 FireWatch
 
-Sistema de detecção de risco de incêndios desenvolvido para a FIAP Global Solution 2026. O protótipo utiliza sensores para monitorar temperatura, umidade e fumaça, classificando o risco em diferentes níveis.
+Sistema de detecção de risco de incêndios desenvolvido para a **FIAP Global Solution 2026**. O protótipo utiliza sensores para monitorar temperatura, umidade e fumaça, classificando o risco em diferentes níveis.
 
 **Tecnologias:** Arduino, C++, DHT22, MQ-2, LCD I2C, ArduinoJson, Wokwi, HTML, CSS e JavaScript.
 
@@ -67,13 +79,14 @@ Sistema de detecção de risco de incêndios desenvolvido para a FIAP Global Sol
 
 Projeto desenvolvido em equipe com a **Null Squad**.
 
-## Formação
+## 🎓 Formação
 
 - **Engenharia de Software — FIAP** · Em andamento
 - **Técnico em Informática — SENAC** · Concluído
 
-## Atualmente estudando
+## 📚 Atualmente estudando
 
+- Desenvolvimento de APIs com Java e Spring Boot
 - Testes automatizados
 - TypeScript
 - SQL
