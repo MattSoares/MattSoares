@@ -115,6 +115,6 @@ Projeto desenvolvido em equipe com a **Null Squad**.
 
 Estou aberto a oportunidades de estágio em backend, conexões e feedbacks sobre meus projetos.
 
-**[LinkedIn](https://www.linkedin.com/in/amorimmatheus/) · [Portfólio](https://mattsoares.github.io/Matheus_Portfolio) · [E-mail](mailto:matheus529.ms@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/amorimmatheus/) · [Portfólio](https://mattsoares-portfolio.vercel.app/) · [E-mail](mailto:matheus529.ms@gmail.com)**
 
 </div>
