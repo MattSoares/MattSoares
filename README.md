@@ -60,7 +60,7 @@ Gosto de entender como as aplicações funcionam, investigar erros e transformar
 ![Git](https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1f2328?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-1f2328?style=flat-square&logo=vite&logoColor=646CFF)
-![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-1f2328?style=flat-square&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/VS_Code-1f2328?style=flat-square&logo=visualstudiocode&logoColor=22A7F2)
 
