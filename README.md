@@ -88,7 +88,7 @@ Sistema de detecção de risco de incêndios desenvolvido para a **FIAP Global S
 
 **Tecnologias:** Arduino, C++, DHT22, MQ-2, LCD I2C, ArduinoJson, Wokwi, HTML, CSS e JavaScript.
 
-[![Ver repositório](https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/dUWpz2TQ)
+[![Ver repositório](https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzo-franco/firewatch-edge-gs1.git)
 [![Ver aplicação](https://img.shields.io/badge/Ver_aplicação-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lnkd.in/dpgufKHY)
 
 Projeto desenvolvido em equipe com a **Null Squad**.
